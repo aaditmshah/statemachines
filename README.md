@@ -18,7 +18,7 @@ Deterministic state machines are faster. However nondeterministic state machines
 
 Consider the following nondeterministic state machine:
 
-![Nondeterministic Finite State Machine](nfa.png "Nondeterministic Finite State Machine")
+![Nondeterministic Finite State Machine](https://raw.github.com/aaditmshah/statemachines/master/nfa.png "Nondeterministic Finite State Machine")
 
 We construct it in JavaScript as follows:
 
@@ -56,7 +56,7 @@ nfa.test("cabb");  // false
 
 The following deterministic state machine is equivalent to the above nondeterministic state machine:
 
-![Deterministic Finite State Machine](dfa.png "Deterministic Finite State Machine")
+![Deterministic Finite State Machine](https://raw.github.com/aaditmshah/statemachines/master/dfa.png "Deterministic Finite State Machine")
 
 We can construct it in JavaScript as follows:
 
