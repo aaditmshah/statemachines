@@ -15,18 +15,18 @@
         "email": "aaditmshah@myopera.com",
         "web": "http://aaditmshah.github.com/"
     }],
-    "bugs": "https://github.com/javascript/statemachines/issues",
+    "bugs": "https://github.com/aaditmshah/statemachines/issues",
     "licenses": [{
         "type": "MIT",
         "url": "http://opensource.org/licenses/MIT"
     }],
     "repositories": [{
         "type": "git",
-        "url": "https://github.com/javascript/statemachines.git"
+        "url": "https://github.com/aaditmshah/statemachines.git"
     }],
     "dependencies": {
         "augment": "3.2.1",
         "sorted-array": "1.1.0"
     },
-    "homepage": "https://github.com/javascript/statemachines"
+    "homepage": "https://github.com/aaditmshah/statemachines"
 }
