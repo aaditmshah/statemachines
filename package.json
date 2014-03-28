@@ -1,18 +1,18 @@
 {
     "name": "statemachines",
     "description": "Deterministic and Nondeterministic Finite State Machines for JavaScript. The backend for my regex library.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "keywords": ["deterministic", "nondeterministic", "finite", "state", "machines", "backend", "regex"],
-    "author": "Aadit M Shah (http://aaditmshah.github.com/) <aaditmshah@myopera.com>",
+    "author": "Aadit M Shah (http://aaditmshah.github.com/) <aaditmshah@fastmail.fm>",
     "main": "lib/statemachines.js",
     "maintainers": [{
         "name": "Aadit M Shah",
-        "email": "aaditmshah@myopera.com",
+        "email": "aaditmshah@fastmail.fm",
         "web": "http://aaditmshah.github.com/"
     }],
     "contributors": [{
         "name": "Aadit M Shah",
-        "email": "aaditmshah@myopera.com",
+        "email": "aaditmshah@fastmail.fm",
         "web": "http://aaditmshah.github.com/"
     }],
     "bugs": "https://github.com/aaditmshah/statemachines/issues",
