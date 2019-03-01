@@ -61,7 +61,7 @@ The following deterministic state machine is equivalent to the above nondetermin
 We can construct it in JavaScript as follows:
 
 ```javascript
-var dfa = new StateMachine.Deterministic({
+var dfa = new StateMachine.Deterministic([
     {
         "a": 1,
         "b": 2
@@ -82,7 +82,7 @@ var dfa = new StateMachine.Deterministic({
         "a": 1,
         "b": 2
     }
-}, [4]);
+], [4]);
 ```
 
 However it's more convenient to construct it from the nondeterministic state machine using the `subset` method:
